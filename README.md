@@ -1,2 +1,2 @@
 # starbucksProject
-# HTML, CSS, БЭМ, адаптив
+HTML, CSS, БЭМ, адаптив
