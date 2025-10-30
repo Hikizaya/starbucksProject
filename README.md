@@ -1,2 +1,4 @@
-# starbucksProject
-HTML, CSS, БЭМ, адаптив
+# Лендинг Starbucks
+- HTML, CSS
+- Методология БЭМ
+- Мобильная адаптация
